@@ -123,7 +123,8 @@ Expected output:
 
 ## Credits
 
-- Designed and implemented by: **Rupesh Majhi**
+- Designed and implemented by: **IoT Cogni Nexus  Phase 3**
+- Maintainer : ryantra
 - Tampere University Embedded IoT Project
 
 ---
