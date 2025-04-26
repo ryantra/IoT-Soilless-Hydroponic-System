@@ -4,3 +4,5 @@
 lib/README
 C_Tech.code-workspace
 IoT.code-workspace
+include/
+test/
