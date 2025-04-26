@@ -119,7 +119,7 @@ Expected output:
 
 ## Credits
 
-- Designed and implemented by: **[Your Name]**
+- Designed and implemented by: **Rupesh Majhi**
 - Tampere University Embedded IoT Project
 
 ---
